@@ -2,7 +2,8 @@ No,Name,Topic,Path
 1,AT Sidharth,An Intelligent Traffic Load Prediction Based Adaptive Channel Assignment Algorithm in SDN-IoT: A Deep Learning Approach,1_AT Sidharth
 2,Abhay Balan,Colour balancing and fusion for under water image enhancement,2_Abhay Balan
 3,Abhinav TK,Towards a SDN-Based Integrated Architecture for Mitigating IP Spoofing Attack,3_Abhinav TK
-4,Afna Salam,Action recognition in video sequences using deep bi-directional LSTM with CNN FEATURES,4_Afna Salam
+4,Afna Salam,"Action Recognition in Video
+Sequences using Deep Bi-directional LSTM with CNN features",4_Afna Salam
 5,Ajay Ajith,Blockchain meets Iot an architecture for scalable access management system,5_Ajay Ajith
 6,Akhil Murali,"Making Big Data Open in Edges: A 
 Resource-Efficient Blockchain-based Approach",6_Akhil Murali
@@ -11,18 +12,23 @@ Resource-Efficient Blockchain-based Approach",6_Akhil Murali
 9,Amrutha Sajeevan,"Artificial Intelligence based Techniques for Emerging Heterogeneous Network State of the Arts, Opportunities and Challenges",9_Amrutha Sajeevan
 10,Anand Chandar,,10_Anand Chandar
 11,Anika Babu,collective list only entity linking - A graph based approach,11_Anika Babu
-12,Anjali Siji,A novel Design framework for smart operating robot in power system.,12_Anjali Siji
+12,Anjali Siji,"A Novel Design Framework for Smart
+Operating Robot in Power System",12_Anjali Siji
 13,Anusree P S,Authentication with block-chain algorithm and text encryption protocol in calculation of social network,13_Anusree P S
 14,Archana Manoj,Efficient and consistent flow update for software defined networks,14_Archana Manoj
 15,Ardra P V,Intelligent Map Reader-A Frame work for Topographic Map Understanding With Deep Learning and Gazetteer,15_Ardra P V
-16,Ashlay Cyriac,,16_Ashlay Cyriac
+16,Ashlay Cyriac,"A Survey On Unmanned Aerial
+Vehicle Remote Control Using BrainComputer Interface",16_Ashlay Cyriac
 17,Aynical Shreya,Cyber Physical System for Stroke Detection,17_Aynical Shreya
 18,Ayyappadas Chandran,,18_Ayyappadas Chandran
 19,Benjamin C Hurdins,clustered crowd GPS for privacy valuing active localization,19_Benjamin C Hurdins
 20,Binil Biju,A user-friendly privacy framework for users to achieve consents with nearby BLE devices,20_Binil Biju
-21,Christo Joby,asd,21_Christo Joby
+21,Christo Joby,"Hybrid robust iris recognition approach using
+iris image pre-processing, two-dimensional gabor features and multilayer
+perceptron neural network/PSO",21_Christo Joby
 22,Clint Mathews,Social Fingerprinting: Detection of spambot groups through DNA - inspired behavioural modeling,22_Clint Mathews
-23,Deepul Nair,Sparse-TDA: Sparse Realization Of Topological Data Analysis For Multi Way Classification,23_Deepul Nair
+23,Deepul Nair,"Clickstream Analysis For Crowd-
+Based Object Segmentation with Confidence",23_Deepul Nair
 24,Dilna v,A Hybrid Approach for Identification of Manhole and Staircase to Assist Visually Challenged,24_Dilna v
 25,Dipin George,,25_Dipin George
 26,Earnest George,,26_Earnest George
@@ -35,7 +41,8 @@ Resource-Efficient Blockchain-based Approach",6_Akhil Murali
 and Transfer Learning",32_Jithin K N
 33,Joseph Ashwin Kottapurath,,33_Joseph Ashwin Kottapurath
 34,Kiran K K,,34_Kiran K K
-35,Mathews Joseph,Real-time myocontrol of a human computer interface by paretic muscles after stroke,35_Mathews Joseph
+35,Mathews Joseph,"Real-Time Myocontrol of a
+Human-Computer Interface by Paretic Muscles after Stroke",35_Mathews Joseph
 36,Megha Sony,WiFind- driver fatigue detection with fine grained wi-fi signal features,36_Megha Sony
 37,Midhun P,"Consortium Blockchain-Based Malware 
 Detection in Mobile Devices",37_Midhun P

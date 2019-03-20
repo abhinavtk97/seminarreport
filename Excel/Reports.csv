@@ -1,71 +1,170 @@
 No,Name,Topic,Path
-1,AT Sidharth,An Intelligent Traffic Load Prediction Based Adaptive Channel Assignment Algorithm in SDN-IoT: A Deep Learning Approach,1_AT Sidharth
-2,Abhay Balan,Colour balancing and fusion for under water image enhancement,2_Abhay Balan
-3,Abhinav TK,Towards a SDN-Based Integrated Architecture for Mitigating IP Spoofing Attack,3_Abhinav TK
-4,Afna Salam,Action recognition in video sequences using deep bi-directional LSTM with CNN FEATURES,4_Afna Salam
-5,Ajay Ajith,Blockchain meets Iot an architecture for scalable access management system,5_Ajay Ajith
-6,Akhil Murali,"Making Big Data Open in Edges: A 
-Resource-Efficient Blockchain-based Approach",6_Akhil Murali
-7,Akhila Dinesh R,Deep CNN Based blind image quality predictor,7_Akhila Dinesh R
-8,Alka Susan,when intrusion detection meets blockchain: a review,8_Alka Susan
-9,Amrutha Sajeevan,"Artificial Intelligence based Techniques for Emerging Heterogeneous Network State of the Arts, Opportunities and Challenges",9_Amrutha Sajeevan
-10,Anand Chandar,,10_Anand Chandar
-11,Anika Babu,collective list only entity linking - A graph based approach,11_Anika Babu
-12,Anjali Siji,A novel Design framework for smart operating robot in power system.,12_Anjali Siji
-13,Anusree P S,Authentication with block-chain algorithm and text encryption protocol in calculation of social network,13_Anusree P S
-14,Archana Manoj,Efficient and consistent flow update for software defined networks,14_Archana Manoj
-15,Ardra P V,Intelligent Map Reader-A Frame work for Topographic Map Understanding With Deep Learning and Gazetteer,15_Ardra P V
-16,Ashlay Cyriac,,16_Ashlay Cyriac
-17,Aynical Shreya,Cyber Physical System for Stroke Detection,17_Aynical Shreya
-18,Ayyappadas Chandran,,18_Ayyappadas Chandran
-19,Benjamin C Hurdins,clustered crowd GPS for privacy valuing active localization,19_Benjamin C Hurdins
-20,Binil Biju,A user-friendly privacy framework for users to achieve consents with nearby BLE devices,20_Binil Biju
-21,Christo Joby,asd,21_Christo Joby
-22,Clint Mathews,Social Fingerprinting: Detection of spambot groups through DNA - inspired behavioural modeling,22_Clint Mathews
-23,Deepul Nair,Sparse-TDA: Sparse Realization Of Topological Data Analysis For Multi Way Classification,23_Deepul Nair
-24,Dilna v,A Hybrid Approach for Identification of Manhole and Staircase to Assist Visually Challenged,24_Dilna v
-25,Dipin George,,25_Dipin George
-26,Earnest George,,26_Earnest George
-27,Ganesh S,,27_Ganesh S
-28,Hari Sankar,Real-Time Urban Microclimate Analysis Using Internet of Things,28_Hari Sankar
-29,Indhu Preetha,,29_Indhu Preetha
-30,Jifini Ann Jose,transparent two factor authentication,30_Jifini Ann Jose
-31,Jithesh Raj,Fog assisted IoT enabled Patient Health Monitoring in Smart Homes,31_Jithesh Raj
+1,AT Sidharth,"AN INTELLIGENT TRAFFIC LOAD
+PREDICTION BASED ADAPTIVE CHANNEL
+ASSIGNMENT ALGORITHM IN SDN-IOT",1_AT Sidharth
+2,Abhay Balan,"COLOR BALANCE AND FUSION FOR
+UNDERWATER IMAGE ENHANCEMENT",2_Abhay Balan
+3,Abhinav TK,"TOWARDS A SDN-BASED INTEGRATED
+ARCHITECTURE FOR MITIGATING IP
+SPOOFING ATTACK",3_Abhinav TK
+4,Afna Salam,"ACTION RECOGNITION IN VIDEO
+SEQUENCES USING DEEP BI-DIRECTIONAL
+LSTM WITH CNN FEATURES",4_Afna Salam
+5,Ajay Ajith,"BLOCKCHAIN MEETS IOT: AN
+ARCHITECTURE FOR SCALABLE ACCESS
+MANAGEMENT IN IOT",5_Ajay Ajith
+6,Akhil Murali,"MAKING BIG DATA OPEN IN EDGES: A
+RESOURCE-EFFICIENT
+BLOCKCHAIN-BASED APPROACH",6_Akhil Murali
+7,Akhila Dinesh R,"DEEP CNN BASED BLIND IMAGE QUALITY
+PREDICTOR",7_Akhila Dinesh R
+8,Alka Susan,"WHEN INTRUSION DETECTION MEETS
+BLOCKCHAIN TECHNOLOGY: A REVIEW",8_Alka Susan
+9,Amrutha Sajeevan,NIL,NIL
+10,Anand Chandar PB,"5G-QOE: QOE MODELLING FOR ULTRA-HD
+VIDEO STREAMING IN 5G NETWORKS",10_Anand Chandar PB
+11,Anika Babu,"COLLECTIVE LIST-ONLY ENTITY LINKING:
+A GRAPH BASED APPROACH",11_Anika Babu
+12,Anjali Siji,"A NOVEL DESIGN FRAMEWORK FOR
+SMART OPERATING ROBOT IN POWER
+SYSTEM",12_Anjali Siji
+13,Anusree PS,"Authentication With Block-Chain Algorithm and
+Text Encryption Protocol in Calculation of Social
+Network",13_Anusree PS
+14,Archana Manoj,"Efficient and Consistent Flow Update for
+Software Defined Networks",14_Archana Manoj
+15,Ardra P V,"INTELLIGENT MAP READER:A FRAME
+WORK FOR TOPOGRAPHIC MAP
+UNDERSTANDING WITH DEEP LEARNING
+AND GAZETTEER",15_Ardra PV
+16,Ashlay Cyriac,"A SURVEY ON UNMANNED AERIAL
+VEHICLE REMOTE CONTROL USING
+BRAINCOMPUTER INTERFACE",16_Ashlay Cyriac
+17,Aynical Shreya,"CYBER PHYSICAL SYSTEM FOR
+STROKE DETECTION",17_Aynical Shreya
+18,Ayyappadas Chandran,"TRAFFIC SIGN RECOGNITION USING A
+MULTI- TASK CONVOLUTIONAL NEURAL
+NETWORK",18_Ayyappadas Chandran
+19,Benjamin C Hurdins,"CLUSTERED CROWD GPS FOR PRIVACY
+VALUING ACTIVE LOCALIZATION",19_Benjamin C Hurdins
+20,Binil Biju,"A USER-FRIENDLY PRIVACY FRAMEWORK
+FOR USERS TO ACHIEVE CONSENTS WITH
+NEARBY BLE DEVICES",20_Binil Biju
+21,Christo Joby,"HYBRID ROBUST IRIS RECOGNITION
+APPROACH USING IRIS IMAGE
+PRE-PROCESSING, TWO-DIMENSIONAL
+GABOR FEATURES AND MULTI-LAYER
+PERCEPTRON NEURAL NETWORK/PSO",21_Christo Joby
+22,Clint Mathews,"SOCIAL FINGERPRINTING: DETECTION OF
+SPAMBOT GROUPS THROUGH
+DNA-INSPIRED BEHAVIORAL MODELING",22_Clint Mathews
+23,Deepul Nair,"CLICKSTREAM ANALYSIS FOR
+CROWD-BASED OBJECT SEGMENTATION
+WITH CONFIDENCE",23_Deepul Nair
+24,Dilna V,"A HYBRID APPROACH FOR
+IDENTIFICATION OF MANHOLE AND
+STAIRCASE TO ASSIST VISUALLY
+CHALLENGED",24_Dilna V
+25,Dipin George,NIL,NIL
+26,Earnest George,"RECOGNITION OF HUMAN COMPUTER
+OPERATIONS BASED ON KEYSTROKE
+SENSING BY SMARTPHONE MICROPHONE",26_Earnest George
+27,Ganesh S,"REAL-TIME URBAN MICROCLIMATE
+ANALYSIS USING INTERNET OF THINGS",27_Ganesh S
+28,Hari Sankar,"DETECTION OF MALICIOUS CODE
+VARIANTS BASED ON DEEP LEARNING",28_Hari Sankar
+29,Indhu Preetha,"PERFORMANCE MODELING AND
+SUITABILITY ASSESSMENT OF DATA
+CENTER BASED ON FOG COMPUTING IN
+SMART SYSTEMS",29_Indhu P
+30,Jifini Ann Jose,Transparent Two Factor Authentication,30_Jifini Ann Jose
+31,Jithesh Raj,"MATCHING SOFTWARE-GENERATED
+SKETCHES TO FACE PHOTOS WITH A VERY
+DEEP CNN, MORPHED FACES, AND
+TRANSFER LEARNING",31_Jithesh Raj
 32,Jithin K N,"Matching Software-Generated Sketches to Face Photos with a Very Deep CNN, Morphed Faces, 
 and Transfer Learning",32_Jithin K N
-33,Joseph Ashwin Kottapurath,,33_Joseph Ashwin Kottapurath
-34,Kiran K K,,34_Kiran K K
-35,Mathews Joseph,Real-time myocontrol of a human computer interface by paretic muscles after stroke,35_Mathews Joseph
-36,Megha Sony,"WiFind: Driver Fatigue Detection
-with Fine-Grained Wi-Fi Signal Features",36_Megha Sony
-37,Midhun P,"Lico: A Lightweight Access Control Model
-for Inter-Networking Linkages
-Detection in Mobile Devices",37_Midhun P
-38,Midhun S,Blockchain- Enabled Security in Electric Vehicles Cloud and Edge Computing,38_Midhun S
-39,Mishal Kodalam Pollath,,39_Mishal Kodalam Pollath
-40,Muhammed Rashid K K,,40_Muhammed Rashid K K
-41,Nishwa Fathima,cloud storage for EHR based on secret sharing with verifiable reconstruction outsourcing,41_Nishwa Fathima
-42,Nitha Chalil,Concurrency Analysis in Dynamic dataflow graphs,42_Nitha Chalil
-43,Nithin Benny,Light-Weight Security and Data Provenance for Multi-Hop Internet of Things,43_Nithin Benny
-44,Panchami A Mohan,Minimisation of power consumption in video servers by the combined use of solid state disk and multi-speed disks,44_Panchami A Mohan
-45,Pranav PK,,45_Pranav PK
-46,Prem Jyothi,Edge computing architecture for mobile crowdsensing,46_Prem Jyothi
-47,Rahul A,,47_Rahul A
-48,Rasna K,blockchain for large scale internet of things data storage and protection,48_Rasna K
-49,Reshma Joshy,A security architecture for 5G network,49_Reshma Joshy
-50,Reshma Reghunath,Interactive medical image segmentation using deep learning with image specific fine tuning,50_Reshma Reghunath
-51,Revathy Surendran,,51_Revathy Surendran
-52,rohith r nair,"Multi center Brain Imaging Classification
-Using A Novel 3D CNN Approach",52_rohith r nair
-53,Rose Mary Abraham,An empirical study on modelling and prediction of Bitcoin prices with Bayesian Neural Networks based on blockchain information,53_Rose Mary Abraham
-54,saheer s,Voice disorder detection by using machine learning,54_saheer s
-55,Saritha K S,Live migration in Bare-metal clouds,55_Saritha K S
-56,shilpa kv,emotion based music recommendation system using wearable physiological sensors,56_shilpa kv
-57,shilpa sreedhar,bitcoin security under broken cryptographic primitives,57_shilpa sreedhar
-58,sijo saji,semantic multimedia using fog computing,58_sijo saji
-59,sreelakshmi hari,Smart wearable hand device for sign language interpretation,59_sreelakshmi hari
-60,sreelakshmi prasanth,Deep learning applications in medical image analysis,60_sreelakshmi prasanth
-61,sterin jolly,machine learning with iot data for risk prediction: application in ESRD,61_sterin jolly
-62,tom john,Convolutional Neural Networks based fire detection in surveillance videos,62_tom john
-63,vishnupriya,A Swarm Intelligence algorithm for Routing Recovery Strategy In Wireless Sensor Networks With Mobile Sink,63_vishnupriya
-64,,a software defined fog node based distributed blockchain cloud architecture for iot,64_
+33,Joseph Ashwin Kottapurath,"SECURITY ARCHITECTURE FOR A SECURE
+DATABASE ON ANDROID",33_Joseph Ashwin
+34,Kiran K K,"ACCIDENT AND ALCOHOL DETECTION IN
+BLUETOOTH ENABLED SMART HELMETS FOR
+MOTORBIKES",34_Kiran
+35,Mathews Joseph,"REAL-TIME MYOCONTROL OF A
+HUMAN-COMPUTER INTERFACE BY
+PARETIC MUSCLES AFTER STROKE",35_Mathews Joseph
+36,Megha Sony,"WIFIND:DRIVER FATIGUE DETECTION
+WITH FINE-GRAINED WI-FI SIGNAL
+FEATURES",36_Megha Sony
+37,Midhun P,"LICO: A LIGHTWEIGHT ACCESS CONTROL
+MODEL FOR INTER-NETWORKING
+LINKAGES",37_Midhun P
+38,Midhun Sabu,"BLOCKCHAIN-ENABLED SECURITY IN
+ELECTRIC VEHICLES CLOUD AND EDGE
+COMPUTING",38_Midhun Sabu
+39,Mishal Kodalam Pollath,"TRAJECTORY MINING USING UNCERTAIN
+SENSOR DATA",39_Mishal Kodalam Pollath
+40,Muhammed Rashid K K,"Automatic Atrial Fibrillation Detection Based on
+Heart Rate Variability and Spectral Features",40_Muhammed Rashid K K
+41,Nishwa Fathima,"CLOUD STORAGE FOR ELECTRONIC
+HEALTH RECORDS BASED ON SECRET
+SHARING",41_Nishwa Fathima
+42,Nitha Fathima,"CONCURRENCY ANALYSIS IN DYNAMIC
+DATAFLOW GRAPHS",42_Nitha Fathima
+43,Nithin Benny,"LIGHT-WEIGHT SECURITY AND DATA
+PROVENANCE FOR MULTI-HOP INTERNET
+OF THINGS",43_Nithin Benny
+44,Panchami A Mohan,"MINIMIZING POWER CONSUMPTION IN
+VIDEO SERVERS BY THE COMBINED USE OF
+SOLID-STATE DISKS AND MULTI-SPEED
+DISKS",44_Panchami A Mohan
+45,Pranav PK,"ADAPTIVE FEATURE MAPPING FOR
+CUSTOMIZING DEEP LEARNING BASED
+FACIAL EXPRESSION RECOGNITION
+MODEL",45_Pranav
+46,Prem Jyothi,"EDGE COMPUTING ARCHITECTURE FOR
+MOBILE CROWDSENSING",46_Prem Jyothi
+47,Rahul A,"CrowdVision: A Computing Platform for Video
+Crowdprocessing Using Deep Learning",47_Rahul
+48,Rasna K,"Blockchain For Large-Scale Internet of Things
+Data Storage and Protection",48_Rasna
+49,Reshma Joshy,"A SECURITY ARCHITECTURE FOR 5G
+NETWORK",49_Reshma Joshy
+50,Reshma Reghunath,"INTERACTIVE MEDICAL IMAGE
+SEGMENTATION USING DEEP LEARNING
+WITH IMAGE SPECIFIC FINE TUNING",50_Reshma Reghunath
+51,Revathy Surendran,"AERIAL CAMERA NETWORK FOR
+OBSERVING MOVING TARGETS",51_Revathy Surendran
+52,Rohith R Nair,"MULTI CENTER BRAIN IMAGING
+CLASSIFICATION USING A NOVEL 3D CNN
+APPROACH",52_Rohith R Nair
+53,Rose Mary Abraham,"AN EMPIRICAL STUDY ON MODELLING AND
+PREDICTION OF BITCOIN PRICES WITH
+BAYESIAN NEURAL NETWORKS BASED ON
+BLOCKCHAIN INFORMATION",53_Rose Mary Abraham
+54,Saheer S,"VOICE DISORDER IDENTIFICATION BY
+USING MACHINE LEARNING TECHNIQUES",54_Saheer S
+55,Saritha K S,LIVE MIGRATION IN BARE-METAL CLOUDS,55_Saritha KS
+56,Shilpa KV,"EMOTION BASED MUSIC
+RECOMMENDATION SYSTEM USING
+WEARABLE PHYSIOLOGICAL SENSORS",56_Shilpa KV
+57,Shilpa Sreedhar K,"WHEN THE ”CRYPTO” IN
+CRYPTOCURRENCIES BREAKS: BITCOIN
+SECURITY UNDER BROKEN PRIMITIVES",57_Shilpa Sreedhar K
+58,Sijo Saji,"SEMANTIC MULTIMEDIA FOG COMPUTING
+AND IOT ENVIROMENT: SUSTAINABILITY
+PERSPECTIVE",58_Sijo Saji
+59,Sreelakshmi Hari,"SMART WEARABLE HAND DEVICE FOR
+SIGN LANGUAGE INTERPRETATION
+SYSTEM WITH SENSORS FUSION",59_Sreelakshmi Hari
+60,Sreelakshmi Prasanth,"Deep Learning Applications in Medical Image
+Analysis",60_Sreelakshmi Prasanth
+61,Sterin Jolly,"CONVOLUTIONAL NEURAL NETWORKS
+BASED FIRE DETECTION IN SURVEILLANCE
+VIDEOS",61_Sterin Jolly
+62,Tom John,"A SWARM INTELLIGENCE ALGORITHM FOR
+ROUTING RECOVERY STRATEGY IN
+WIRELESS SENSOR NETWORKS WITH
+MOBILE SINK",62_Tom John
+63,Vishnupriya,"A SOFTWARE DEFINED FOG NODE BASED
+DISTRIBUTED BLOCKCHAIN CLOUD
+ARCHITECTURE FOR IoT",63_Vishnupriya

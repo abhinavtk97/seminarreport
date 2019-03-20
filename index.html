@@ -204,8 +204,8 @@
   {
     "No": 32,
     "Name": "Jithin K N",
-    "Topic": "Matching Software-Generated Sketches to Face Photos with a Very Deep CNN, Morphed Faces, \nand Transfer Learning",
-    "Path": "32_Jithin K N"
+    "Topic": "NIL",
+    "Path": "NIL"
   },
   {
     "No": 33,
@@ -430,10 +430,11 @@
                     console.log(col.length, j);
                     if (j == (col.length - 2)) {
                         console.log(col.length);
+                        if(myBooks[i][col[j + 1]]!="NIL"){
                         var a = document.createElement("a");
                         a.setAttribute("href", "reports/"+myBooks[i][col[j + 1]]+".pdf");
                         a.innerHTML = myBooks[i][col[j]];
-                        tabCell.appendChild(a);
+                        tabCell.appendChild(a);}
                     } else {
                         tabCell.innerHTML = myBooks[i][col[j]];
                     }

@@ -411,10 +411,12 @@
 
             var tr = document.createElement("tr");
             var thead = document.getElementById("tahead");
-            for (var i = 0; i < (col.length - 1); i++) {
+            for (var i = 0; i < (col.length); i++) {
                 var th = document.createElement("th"); // TABLE HEADER.
                 if(i==0)
                     th.innerHTML = "Roll No";
+                else if(i==3)
+                th.innerHTML = "PPT";
                 else
                     th.innerHTML = col[i];
                 thead.appendChild(th);
@@ -427,16 +429,27 @@
 
                 for (var j = 0; j < (col.length - 1); j++) {
                     var tabCell = tr.insertCell(-1);
-                    console.log(col.length, j);
+                    //console.log(col.length, j);
                     if (j == (col.length - 2)) {
-                        console.log(col.length);
+                        //console.log(col.length);
                         if(myBooks[i][col[j + 1]]!="NIL"){
-                        var a = document.createElement("a");
-                        a.setAttribute("href", "reports/"+myBooks[i][col[j + 1]]+".pdf");
-                        a.innerHTML = myBooks[i][col[j]];
-                        tabCell.appendChild(a);}
+                          var a = document.createElement("a");
+                          a.setAttribute("href", "reports/"+myBooks[i][col[j + 1]]+".pdf");
+                          var b = document.createElement("a");
+                          b.setAttribute("href", "ppts/"+myBooks[i][col[j + 1]]+".ppt");
+                          a.innerHTML = myBooks[i][col[j]];
+                          b.innerHTML = "PPT"
+                          tabCell.appendChild(a);
+                          var tabCell1 = tr.insertCell(-1);
+                          tabCell1.appendChild(b);
+                        }
+                        else{
+                          var tabCell1 = tr.insertCell(-1);
+                          tabCell1.innerHTML = " ";
+                        }
                     } else {
                         tabCell.innerHTML = myBooks[i][col[j]];
+                        
                     }
                 }
             }
